@@ -3,21 +3,27 @@
 Este repositório existe para uma coisa só: guardar os instaladores do
 **MediaGrabber**. Não há código-fonte aqui.
 
-O programa é um navegador para Windows que reconhece o que toca na página e
-baixa — vídeo, áudio, imagem ou PDF —, na qualidade e no formato que você
-escolher, com o tamanho do arquivo à vista antes do download começar.
+O programa é um navegador para Windows que reconhece o que a página carrega e
+salva no seu computador — vídeo, áudio, imagem ou PDF —, na qualidade, no
+formato e no trecho que você escolher, com o tamanho do arquivo à vista antes
+de o download começar.
 
 👉 **[mediagrabber.space](https://mediagrabber.space)**
 
 ## Baixar
 
-Os arquivos ficam em **[Releases](../../releases/latest)**. São duas formas do
-mesmo programa:
+Os arquivos ficam em **[Releases](../../releases/latest)**. Fica publicada
+sempre a versão mais recente, em duas formas do mesmo programa:
 
 | Arquivo | Para quem |
 | --- | --- |
-| `MediaGrabber-<versão>-Instalador.exe` | Uso normal: cria atalho e entra no menu Iniciar. |
-| `MediaGrabber-<versão>-Portatil.exe` | Roda de onde estiver, sem instalar — inclusive de um pendrive. |
+| `MediaGrabber-Instalador.exe` | Uso normal: cria atalho e entra no menu Iniciar. |
+| `MediaGrabber-Portatil.exe` | Roda de onde estiver, sem instalar — inclusive de um pendrive. |
+
+O nome não leva a versão de propósito: assim o endereço
+`releases/latest/download/MediaGrabber-Instalador.exe` continua valendo a cada
+versão nova. Qual versão você está baixando aparece no título do release, e
+depois em **Configurações › Sobre**, dentro do programa.
 
 Windows 10 ou 11, 64 bits. Tudo o que o programa usa para baixar e converter já
 vem dentro: não há nada para instalar à parte.
@@ -35,7 +41,8 @@ As chaves estão em [mediagrabber.space](https://mediagrabber.space/#planos).
 
 ## Suporte
 
-[suporte@mediagrabber.space](mailto:suporte@mediagrabber.space)
+[mediagrabber.space/#suporte](https://mediagrabber.space/#suporte) — ou
+[suporte@mediagrabber.space](mailto:suporte@mediagrabber.space).
 
 ---
 
